@@ -1,4 +1,5 @@
 🏥 EHR Pro - Healthcare Electronic Health Record System
+
 EHR Pro is a comprehensive Electronic Health Record system designed for healthcare providers and patients. It provides a secure platform for managing patient records, appointments, and real-time communication between doctors and patients.
 
 ✨ Features
@@ -42,25 +43,31 @@ EHR Pro is a comprehensive Electronic Health Record system designed for healthca
 🌟 Heroicons
 
 🧪 Test Accounts
+
 You can use the following test accounts to log in:
 
 👨‍⚕️ Doctor Accounts
+
 Email: doctor1@example.com
 
 Password: Doctor@123
 
 🧑‍🤝‍🧑 Patient Accounts
+
 Email: patient1@example.com
 
 Password: Patient@123
 
 📚 API Documentation
+
 API documentation is available at http://localhost:5000/api/docs when the backend server is running.
 
 📄 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 🙌 Acknowledgments
+
 Created as part of a healthcare hackathon
 
 Special thanks to all contributors and mentors
