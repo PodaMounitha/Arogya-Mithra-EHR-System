@@ -2,6 +2,7 @@
 EHR Pro is a comprehensive Electronic Health Record system designed for healthcare providers and patients. It provides a secure platform for managing patient records, appointments, and real-time communication between doctors and patients.
 
 ✨ Features
+
 🔐 User Authentication: Secure login and registration for doctors and patients
 
 📊 Dashboard: Role-specific dashboards for doctors and patients
