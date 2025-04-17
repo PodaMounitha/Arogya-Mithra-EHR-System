@@ -18,7 +18,9 @@ EHR Pro is a comprehensive Electronic Health Record system designed for healthca
 🤖 AI Analytics: Health anomaly detection and predictive analytics
 
 🧰 Technology Stack
+
 🖥️ Backend
+
 🐍 Python Flask
 
 🛠️ SQLAlchemy ORM
@@ -30,6 +32,7 @@ EHR Pro is a comprehensive Electronic Health Record system designed for healthca
 🗃️ SQLite/PostgreSQL database
 
 💻 Frontend
+
 ⚛️ React.js
 
 🎨 Tailwind CSS
